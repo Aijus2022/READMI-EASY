@@ -1,4 +1,4 @@
-# Readmi-Easy
+# READMI-generator
 
 ## Description
 
@@ -6,7 +6,7 @@ README Generator App
 
 ## Motivation
 
-To provide a quick and easy way for developers to create a professional README for their projects.
+o provide a quick and easy way for developers to create a professional README for their projects.
 
 ## Why Build
 
@@ -18,7 +18,7 @@ Simplifies the process of creating a README, ensuring it contains essential info
 
 ## Repository URL
 
-[github.com/Aijus2022/Professional-README-generator-app](github.com/Aijus2022/Professional-README-generator-app)
+[https://github.com/Aijus2022/READMI-EASY/blob/main/github.com/Aijus2022/Professional-README-generator-app](https://github.com/Aijus2022/READMI-EASY/blob/main/github.com/Aijus2022/Professional-README-generator-app)
 
 ## Screenshots
 
@@ -27,7 +27,7 @@ Simplifies the process of creating a README, ensuring it contains essential info
 
 ## Author
 
-- Name: Aijamal jusupova
+- Name: Aijamal Jusuypova
 - GitHub: [Aijus2022](https://github.com/Aijus2022)
 
 ## License
@@ -49,7 +49,7 @@ To use the Professional README Generator App, run the following command in the t
 
 ## Website
 
-[https://aijus2022.github.io/Professional-README-generator-app/](https://aijus2022.github.io/Professional-README-generator-app/)
+[https://aijus2022.github.io/Professional-README-generator-app/](https://aijus2022.github.io/Professional-README-generator-app/](https://aijus2022.github.io/Professional-README-generator-app/](https://aijus2022.github.io/Professional-README-generator-app/)
 
 ## Contributing
 
